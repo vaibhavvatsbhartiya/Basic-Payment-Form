@@ -1,0 +1,19 @@
+*{
+    position: relative;
+}
+
+h1{
+    color: #000;
+    background-color: aqua;
+    border: 10px;
+    border-color: #000;
+}
+form{
+    background-color: yellow;
+    top: 200px;
+    text-align: center;
+    /* width: 250px; */
+}
+
+
+
